@@ -1,0 +1,41 @@
+{
+  "name": "intelliinvest-valueresearch",
+  "version": "1.0.0",
+  "description": "AI-Powered Value Investing Research Platform for Indian Stock Market",
+  "private": true,
+  "workspaces": [
+    "backend",
+    "mobile",
+    "shared"
+  ],
+  "scripts": {
+    "install-all": "npm install && cd backend && npm install && cd ../mobile && npm install && cd ../shared && npm install",
+    "backend": "cd backend && npm run dev",
+    "mobile": "cd mobile && npm start",
+    "mobile:web": "cd mobile && npm run web",
+    "shared:build": "cd shared && npm run build",
+    "test": "npm run test --workspaces",
+    "lint": "npm run lint --workspaces",
+    "clean": "rm -rf node_modules backend/node_modules mobile/node_modules shared/node_modules",
+    "dev": "concurrently \"npm run backend\" \"npm run mobile:web\"",
+    "db:migrate": "cd database && node migrations/run.js",
+    "db:seed": "cd database && node seeds/run.js"
+  },
+  "keywords": [
+    "stock-analysis",
+    "value-investing",
+    "fundamental-analysis",
+    "ai-research",
+    "indian-stocks"
+  ],
+  "author": "Arjun Wadkar",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "typescript": "^5.3.3"
+  },
+  "engines": {
+    "node": ">=20.0.0",
+    "npm": ">=10.0.0"
+  }
+}
