@@ -1,0 +1,400 @@
+{
+  "symbol": "WIPRO",
+  "name": "Wipro Limited",
+  "sector": "IT Services",
+  "subSector": "Software Products & Services",
+  "lastUpdated": "2025-02-15T00:00:00Z",
+  
+  "overview": {
+    "foundedYear": 1945,
+    "headquarters": "Bengaluru, Karnataka, India",
+    "listedYear": 1946,
+    "exchange": "NSE/BSE/NYSE",
+    "promoterGroup": "Azim Premji and Family",
+    "promoterHolding": 73.9,
+    "publicHolding": 26.1,
+    "fiiHolding": 12.8,
+    "diiHolding": 7.3,
+    "businessModel": "IT Services, Consulting and Business Process Services - Focus on integrated capabilities across cloud, data, AI and cybersecurity",
+    "revenueSegments": {
+      "BFSI": 31.2,
+      "Consumer": 20.5,
+      "Technology": 13.8,
+      "Communications": 12.5,
+      "Manufacturing": 11.2,
+      "Others": 10.8
+    },
+    "geographicPresence": {
+      "Americas": 55.8,
+      "Europe": 27.5,
+      "India": 4.2,
+      "APMEA": 12.5
+    },
+    "keyProducts": [
+      "Application Services",
+      "Cloud & Infrastructure Services",
+      "Digital Operations",
+      "Consulting Services",
+      "Cybersecurity Services"
+    ],
+    "marketShareIndia": 9.2,
+    "marketShareGlobal": 1.2,
+    "employeeCount": 233698,
+    "subsidiaries": [
+      "Capco",
+      "Designit",
+      "Wipro Digital",
+      "Rizing"
+    ],
+    "managementQualityRating": 3,
+    "ceoName": "Thierry Delaporte",
+    "cfoName": "Aparna Iyer"
+  },
+
+  "financials": {
+    "FY21": {
+      "year": 2021,
+      "currency": "INR Crores",
+      "revenue": 61962,
+      "ebitda": 12834,
+      "ebitdaMargin": 20.7,
+      "ebit": 12456,
+      "pbt": 12678,
+      "pat": 9670,
+      "patMargin": 15.6,
+      "eps": 17.82,
+      "totalAssets": 78234,
+      "netWorth": 52345,
+      "totalDebt": 1234,
+      "netDebt": -18234,
+      "cfo": 11234,
+      "capex": 1345,
+      "fcf": 9889,
+      "bookValue": 96.4
+    },
+    "FY22": {
+      "year": 2022,
+      "currency": "INR Crores",
+      "revenue": 73196,
+      "ebitda": 13567,
+      "ebitdaMargin": 18.5,
+      "ebit": 13123,
+      "pbt": 13456,
+      "pat": 10438,
+      "patMargin": 14.3,
+      "eps": 19.23,
+      "totalAssets": 86234,
+      "netWorth": 57234,
+      "totalDebt": 1456,
+      "netDebt": -19456,
+      "cfo": 12456,
+      "capex": 1567,
+      "fcf": 10889,
+      "bookValue": 105.5
+    },
+    "FY23": {
+      "year": 2023,
+      "currency": "INR Crores",
+      "revenue": 84472,
+      "ebitda": 12234,
+      "ebitdaMargin": 14.5,
+      "ebit": 11789,
+      "pbt": 12123,
+      "pat": 9481,
+      "patMargin": 11.2,
+      "eps": 17.47,
+      "totalAssets": 91234,
+      "netWorth": 59234,
+      "totalDebt": 1678,
+      "netDebt": -20123,
+      "cfo": 11567,
+      "capex": 1678,
+      "fcf": 9889,
+      "bookValue": 109.1
+    },
+    "FY24": {
+      "year": 2024,
+      "currency": "INR Crores",
+      "revenue": 87478,
+      "ebitda": 11234,
+      "ebitdaMargin": 12.8,
+      "ebit": 10678,
+      "pbt": 11012,
+      "pat": 8745,
+      "patMargin": 10.0,
+      "eps": 16.11,
+      "totalAssets": 93456,
+      "netWorth": 60234,
+      "totalDebt": 1823,
+      "netDebt": -21234,
+      "cfo": 10567,
+      "capex": 1734,
+      "fcf": 8833,
+      "bookValue": 111.0
+    }
+  },
+
+  "ratios": {
+    "FY24": {
+      "roe": 14.5,
+      "roce": 19.2,
+      "roic": 16.8,
+      "roa": 9.4,
+      "debtToEquity": 0.03,
+      "currentRatio": 1.95,
+      "quickRatio": 1.92,
+      "interestCoverage": 45.2,
+      "assetTurnover": 0.94,
+      "inventoryTurnover": null,
+      "receivablesDays": 78,
+      "payablesDays": 42,
+      "cashConversionCycle": 36,
+      "dividendPayoutRatio": 68.5,
+      "dividendYield": 2.45,
+      "grossMargin": 38.2,
+      "operatingMargin": 12.2,
+      "netMargin": 10.0,
+      "evToEbitda": 16.2,
+      "priceToSales": 2.85,
+      "enterpriseValue": 182234
+    }
+  },
+
+  "valuation": {
+    "currentPrice": 445,
+    "marketCap": 241500,
+    "peRatio": 27.6,
+    "pbRatio": 4.0,
+    "pegRatio": 13.8,
+    "evEbitda": 21.5,
+    "priceToSales": 2.76,
+    "dcfValue": 385,
+    "dcfMethod": "5-year FCF projection with 5% terminal growth, 11.5% WACC",
+    "grahamValue": 356,
+    "peerAvgPE": 28.5,
+    "relativeValue": 459,
+    "targetPrice": 410,
+    "upside": -7.9,
+    "analystConsensus": "Reduce",
+    "priceTarget12M": 410,
+    "downsideRisk": -22.5,
+    "upsideScenario": 480,
+    "baseCase": 410,
+    "downsideScenario": 345
+  },
+
+  "forensics": {
+    "cfoVsPat": {
+      "fy24Cfo": 10567,
+      "fy24Pat": 8745,
+      "ratio": 1.21,
+      "observation": "CFO higher than PAT at 121%. Good cash generation quality despite margin pressure.",
+      "redFlag": false
+    },
+    "receivablesGrowth": {
+      "receivablesGrowth": 8.5,
+      "salesGrowth": 3.6,
+      "observation": "Receivables growing faster than sales - DSO increased to 78 days from 72. Working capital deterioration is a concern.",
+      "redFlag": true
+    },
+    "inventoryAnalysis": {
+      "observation": "Not applicable for IT services.",
+      "redFlag": false
+    },
+    "auditorChanges": {
+      "currentAuditor": "Deloitte Haskins & Sells",
+      "tenure": "12 years",
+      "recentChanges": false,
+      "observation": "Stable auditor relationship. No concerns.",
+      "redFlag": false
+    },
+    "promoterPledge": {
+      "pledgedPercentage": 0.0,
+      "observation": "Zero pledge by Azim Premji family. Strong governance signal.",
+      "redFlag": false
+    },
+    "relatedPartyTransactions": {
+      "amount": 1567,
+      "percentOfRevenue": 1.79,
+      "observation": "RPTs at ₹1,567 Cr (1.79% of revenue). Slightly elevated but disclosed. Primarily with IT product division.",
+      "redFlag": false
+    },
+    "contingentLiabilities": {
+      "amount": 3234,
+      "percentOfRevenue": 3.7,
+      "type": "Tax disputes and legal cases",
+      "observation": "Higher contingent liabilities at 3.7% of revenue. Some ongoing tax disputes. Monitor closely.",
+      "redFlag": true
+    },
+    "effectiveTaxRate": {
+      "statutoryRate": 25.2,
+      "effectiveRate": 20.6,
+      "observation": "Lower effective tax rate (20.6%) due to tax benefits from SEZ units. Transparent.",
+      "redFlag": false
+    },
+    "corporateGovernanceRating": 4,
+    "governanceScore": 88,
+    "esgScore": 72,
+    "controversies": []
+  },
+
+  "qualitative": {
+    "managementTrackRecord": {
+      "score": 3,
+      "comments": "Struggling transformation under CEO Thierry Delaporte (since 2020). Multiple restructuring efforts but margins have collapsed from 21% to 13%. High leadership churn - 15+ senior exits in 3 years. Strategy unclear - pivoted multiple times. Capital allocation concerns with expensive M&A (Capco at high valuation)."
+    },
+    "brandStrength": {
+      "score": 4,
+      "comments": "Established brand with 75+ year history. Known for Azim Premji's philanthropic leadership. However, brand perception weakening due to poor financial performance. Client perception surveys show declining satisfaction scores."
+    },
+    "innovationCapability": {
+      "score": 3,
+      "comments": "Innovation investments made (Designit acquisition, Wipro Digital) but ROI unclear. Lower R&D spend than peers at 0.6% of revenue. Innovation labs established but limited IP generation. Playing catch-up on AI/GenAI."
+    },
+    "customerLoyalty": {
+      "score": 3,
+      "comments": "Customer retention declining to 89% from 94% three years ago. Lost several large clients. Wallet share shrinking in existing accounts. Only 28 $100M+ clients vs 59 for TCS. Cross-selling challenges evident."
+    },
+    "employeeCulture": {
+      "score": 2,
+      "comments": "High attrition of 23% (vs industry 15%). Employee morale low due to margin pressure and cost cuts. Multiple restructuring rounds creating uncertainty. Training programs cut back. Glassdoor ratings declined to 3.2/5."
+    },
+    "capitalAllocationDiscipline": {
+      "score": 2,
+      "comments": "Questionable capital allocation - Capco acquisition at $1.45B (premium valuation) not delivering expected synergies. Dividend payout maintained at 68% despite EPS decline. ROE collapsed from 24% to 14.5%. ROCE declining trend. Should focus on core rather than expensive M&A."
+    },
+    "esgCompliance": {
+      "score": 4,
+      "comments": "Azim Premji Foundation's philanthropic work provides strong ESG credentials. Renewable energy usage at 55%. Good diversity metrics - 35% women. However, recent layoffs impacting social score. MSCI ESG Rating: A."
+    },
+    "sustainabilityInitiatives": {
+      "score": 3,
+      "comments": "Carbon neutrality target by 2040 (later than peers). Sustainability initiatives exist but less aggressive than TCS/Infosys. Some green buildings but not comprehensive."
+    },
+    "competitiveAdvantage": {
+      "score": 2,
+      "comments": "Weakening competitive position - lost differentiation vs peers. No clear moat visible - margins below industry, growth lagging, client retention declining. Brand and Azim Premji reputation are residual advantages but fading. Needs strategic reset to rebuild moat."
+    }
+  },
+
+  "risks": {
+    "industryRisk": {
+      "level": "Medium",
+      "score": 5,
+      "impact": "Moderate",
+      "description": "Same industry headwinds as TCS/Infosys but less resilient due to weaker competitive position.",
+      "mitigation": "Attempting to reposition but execution has been poor."
+    },
+    "financialRisk": {
+      "level": "Low",
+      "score": 8,
+      "impact": "Low",
+      "description": "Low debt (D/E 0.03). Strong cash position ₹21,234 Cr net cash. No refinancing risk.",
+      "mitigation": "Conservative leverage maintained."
+    },
+    "governanceRisk": {
+      "level": "Low",
+      "score": 8,
+      "impact": "Low",
+      "description": "Azim Premji's reputation ensures strong governance culture. No major controversies. Transparent disclosures.",
+      "mitigation": "Strong ethical foundation maintained."
+    },
+    "regulatoryRisk": {
+      "level": "Medium",
+      "score": 6,
+      "impact": "Moderate",
+      "description": "Similar H1B visa and data regulation risks as peers. NYSE listing adds compliance complexity.",
+      "mitigation": "Increasing local hiring. Near-shore expansion."
+    },
+    "operationalRisk": {
+      "level": "High",
+      "score": 3,
+      "impact": "High",
+      "description": "Severe execution challenges - margin collapse, client losses, high attrition (23%), leadership churn. Transformation not delivering results. Project delivery issues emerging.",
+      "mitigation": "Multiple restructuring attempts but success uncertain. New leadership needed."
+    },
+    "currencyRisk": {
+      "level": "Medium",
+      "score": 6,
+      "impact": "Moderate",
+      "description": "83% revenue from exports. Lower natural hedge than Infosys. Currency headwinds impacting margins.",
+      "mitigation": "Hedging program in place but impact visible in P&L."
+    },
+    "commodityRisk": {
+      "level": "Very Low",
+      "score": 10,
+      "impact": "Minimal",
+      "description": "No commodity exposure.",
+      "mitigation": "N/A"
+    },
+    "competitiveRisk": {
+      "level": "Very High",
+      "score": 2,
+      "impact": "Very High",
+      "description": "Losing market share to TCS, Infosys, and mid-tier players. Margin collapse from 21% to 13% indicates severe competitive pressure. Client defections. Differentiation lost.",
+      "mitigation": "Turnaround plan announced but execution track record poor. May need 2-3 years to stabilize."
+    },
+    "technologyDisruptionRisk": {
+      "level": "High",
+      "score": 4,
+      "impact": "High",
+      "description": "GenAI disruption risk amplified by weak competitive position. Less investment in AI compared to peers. Risk of being left behind.",
+      "mitigation": "Announced AI investments but credibility low given past execution."
+    },
+    "geopoliticalRisk": {
+      "level": "Medium",
+      "score": 6,
+      "impact": "Moderate",
+      "description": "Standard geopolitical risks for IT services. US concentration at 56%.",
+      "mitigation": "Geographic diversification ongoing."
+    }
+  },
+
+  "recommendation": {
+    "investmentThesis": "Wipro represents a value trap rather than a value opportunity. Despite trading at a discount to peers (28x PE vs sector 28.5x), this is justified by significantly inferior fundamentals: (1) Margin collapse from 21% to 13% EBITDA - worst among large-cap IT, (2) ROE halved from 24% to 14.5%, (3) Revenue growth anaemic at 3.6% vs sector 8%, (4) Market share loss evident - client retention 89% vs peer 94%+, (5) High attrition 23% impacting delivery, (6) Leadership instability with 15+ senior exits. The transformation under CEO Thierry Delaporte has failed to deliver - multiple strategy pivots, restructuring, and expensive M&A (Capco) have not arrested margin decline. Investment case rests entirely on turnaround hope, but execution credibility is low. Even at current depressed valuations, downside risk outweighs upside. Key concern: Can margins recover or will structural issues (competitive intensity, GenAI disruption) keep them depressed? Our assessment: Structural headwinds dominant. Margin recovery to even 16-17% (vs prior 21%) will take 3+ years. Recommend AVOID until clear evidence of turnaround emerges.",
+    
+    "keyCatalysts": [
+      "Margin stabilization at 14-15% preventing further deterioration",
+      "Large deal wins showing competitive traction",
+      "Attrition declining below 18% indicating morale improvement",
+      "Management commentary providing clarity on strategy",
+      "Cost optimization showing results - subcontracting costs down",
+      "Client retention improving - stopping the bleeding"
+    ],
+    
+    "keyRisks": [
+      "Further margin compression to 10-11% if pricing pressure continues",
+      "More client losses in BFSI segment",
+      "Leadership changes creating more disruption",
+      "Failed M&A integration - Capco synergies not materializing",
+      "Attrition spiral - more exits leading to delivery issues",
+      "EPS decline continuing - could fall to ₹12-14 in bear case"
+    ],
+    
+    "valuationSummary": "Wipro trades at 27.6x FY24 EPS of ₹16.11, in line with sector (28.5x) but this is NOT cheap given quality gap. DCF with conservative assumptions (5% terminal growth, 11.5% WACC) yields ₹385 fair value - 13% below current price. Relative PE valuation at sector average ignores quality discount - should trade at 24-25x given lower ROE, margins, growth. Our target: ₹410 (25.5x FY25E EPS of ₹16) implies 8% downside. Bear case (margin pressure continues): ₹345 (22x on ₹15.5 EPS). Bull case (successful turnaround): ₹480. Risk-reward unfavorable.",
+    
+    "recommendation": "Reduce",
+    "targetPrice": 410,
+    "currentPrice": 445,
+    "upside": -7.9,
+    "downside": -22.5,
+    "timeHorizon": 12,
+    "riskRewardRatio": "Unfavorable - 8% downside vs limited upside even in best case. Better opportunities exist.",
+    "buyBelow": 360,
+    "sellAbove": 450,
+    "confidenceLevel": "High",
+    "analystRating": "Reduce/Sell",
+    "priceTarget12Month": 410,
+    "priceTarget24Month": 430
+  },
+
+  "classification": "Struggling",
+  "classificationReasoning": "Wipro was a strong #3 player but is now clearly struggling: (1) Margins collapsed 40% from 21% to 13%, (2) ROE halved from 24% to 14.5%, (3) Market share declining, (4) Client retention poor at 89%, (5) High attrition 23%, (6) Multiple failed turnaround attempts. Was good but facing structural challenges. Could recover but needs 2-3 years of flawless execution.",
+  
+  "comparisonVsPeers": {
+    "vsTCS": "Significantly behind on all metrics - 0.36x revenue, margins 13% vs 26%, ROE 14.5% vs 37%. Quality gap massive. Trades at discount but still not attractive.",
+    "vsInfosys": "Lagging badly - 0.56x revenue, margins 13% vs 22%, slower growth (3.6% vs 9%). Infosys clearly superior. Valuation discount not enough to compensate.",
+    "vsHCL": "Similar scale (0.68x HCL) but inferior margins (13% vs 19%), lower ROE (14.5% vs 21%). HCL executing better despite different business mix.",
+    "vsTechM": "Comparable revenue (1.05x Tech M) but worse profitability. Both facing challenges but Tech M's telecom exposure at least provides differentiation. Wipro lacks clear positioning."
+  }
+}

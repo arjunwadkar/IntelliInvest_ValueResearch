@@ -1,0 +1,86 @@
+{
+  "sector": "IT Services",
+  "subSector": "Software Products & Services",
+  "lastUpdated": "2025-02-15T00:00:00Z",
+  "overview": {
+    "industrySizeINR": "850000",
+    "industrySizeUSD": "102",
+    "industrySizeUnit": "₹ Crores / $Bn",
+    "growthRateCAGR": 12.5,
+    "topCompetitors": ["TCS", "Infosys", "Wipro", "HCL Technologies", "Tech Mahindra", "LTIMindtree"],
+    "marketStructure": "Oligopoly - Top 6 companies control ~68% of organized market share. Tier-1 (TCS, Infosys) dominate with 35%, Tier-2 (Wipro, HCL, Tech M) hold 25%, rest is fragmented.",
+    "demandDrivers": [
+      "Digital transformation initiatives across BFSI, Retail, Manufacturing sectors",
+      "Cloud migration and modernization projects (AWS, Azure, GCP adoption)",
+      "AI/ML implementation and data analytics requirements",
+      "Cybersecurity spending increase post-pandemic",
+      "5G rollout creating demand for telecom IT services",
+      "Regulatory compliance (GDPR, data localization) driving demand"
+    ],
+    "keyRawMaterials": [
+      {
+        "material": "Skilled IT Workforce (Software Engineers, Architects, Project Managers)",
+        "dependency": "Domestic supply (85%) from IITs, NITs, tier-2 engineering colleges. International hiring (15%) impacted by H1B visa policies.",
+        "supplyRisk": "Medium - Wage inflation 8-12% annually, attrition 15-20%"
+      },
+      {
+        "material": "Infrastructure (Data Centers, Cloud Services)",
+        "dependency": "Mix of owned infrastructure (40%), leased data centers (30%), public cloud (AWS/Azure/GCP - 30%)",
+        "supplyRisk": "Low - Multiple providers, scalable on demand"
+      },
+      {
+        "material": "Software Licenses (Development tools, Enterprise software)",
+        "dependency": "International vendors (Microsoft, Oracle, SAP, Adobe)",
+        "supplyRisk": "Low - Long-term contracts, multiple vendors"
+      }
+    ],
+    "entryBarriers": "High - Requires (1) Scale to serve large enterprises, (2) Proven delivery track record, (3) Domain expertise, (4) Global delivery model with onsite-offshore mix, (5) Certifications (CMMI Level 5, ISO), (6) Significant upfront investment in sales and delivery infrastructure",
+    "regulatoryEnvironment": "Moderately regulated. Key factors: (1) H1B visa policies impact onsite staffing, (2) Data privacy laws (GDPR, CCPA) require compliance investments, (3) Tax incentives via SEZ/STPI benefits, (4) Work-from-home policies post-COVID creating cross-border taxation issues",
+    "cyclicality": "Low to Moderate - Defensive sector but exposed to client IT spending cycles. Discretionary projects (new implementations) are cyclical, while maintenance contracts provide stability. ~60% revenue from annuity contracts reduces cyclicality.",
+    "portersFiveForces": {
+      "threatOfNewEntrants": {
+        "rating": "Low",
+        "reasoning": "High entry barriers due to scale requirements, client relationships, and delivery track record needed"
+      },
+      "bargainingPowerOfSuppliers": {
+        "rating": "Medium",
+        "reasoning": "Tech talent in demand leads to wage inflation. Cloud providers have some pricing power."
+      },
+      "bargainingPowerOfBuyers": {
+        "rating": "High",
+        "reasoning": "Large enterprise clients negotiate aggressively. Switching costs exist but buyers demand price reductions annually."
+      },
+      "threatOfSubstitutes": {
+        "rating": "Medium",
+        "reasoning": "Automation, low-code platforms, and client captive centers are substitutes. Increasing use of AI tools."
+      },
+      "competitiveRivalry": {
+        "rating": "High",
+        "reasoning": "Intense competition among Indian IT firms and global competitors (Accenture, Cognizant). Price-based competition common."
+      }
+    },
+    "emergingTrends": [
+      "GenAI adoption: Companies building AI practices, but also risk of AI reducing billable hours",
+      "Platform-based revenue models replacing traditional time-and-materials billing",
+      "Nearshoring trend: Clients preferring Mexico/Eastern Europe over India for some projects",
+      "Automation paradox: Improves margins but reduces headcount-based revenue growth",
+      "Cloud hyperscalers competing directly for large transformation deals"
+    ],
+    "innovationsDisruptions": [
+      "Generative AI could reduce coding effort by 30-40%, impacting utilization rates",
+      "Low-code/no-code platforms enabling citizen developers",
+      "Client captive centers growing, taking away outsourcing demand",
+      "Open-source alternatives reducing license revenue for product companies"
+    ]
+  },
+  "companies": ["TCS", "INFY", "WIPRO", "HCLTECH", "TECHM"],
+  "companiesCount": 5,
+  "marketShareDistribution": {
+    "TCS": 22.5,
+    "Infosys": 15.8,
+    "Wipro": 9.2,
+    "HCL Technologies": 11.5,
+    "Tech Mahindra": 8.3,
+    "Others": 32.7
+  }
+}
